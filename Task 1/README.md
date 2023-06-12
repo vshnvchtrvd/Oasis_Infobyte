@@ -9,7 +9,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![starbucks-website](assets/img/preview.png)
+![starbucks-website](Styling files/img/preview.png)
 
 I don't own the photos used in this site. Starbucks Coffee Company has all images right reserved
 
